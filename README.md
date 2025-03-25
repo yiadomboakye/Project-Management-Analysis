@@ -7,8 +7,8 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Modelling](#data-modelling)
 - [Data Analysis](#data-analysis)
-- [Results /Findings](results/findings)
-- [Recommendations](recommendations)
+- [Results /Findings](#results-findings)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
