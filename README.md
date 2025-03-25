@@ -1,8 +1,14 @@
-# Project Management Analysis
+# Project Management Analysis Dashboard
 
 ## Table of content
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Modelling](#data-modelling)
+- [Data Analysis](#data-analysis)
+- [Results /Findings](results/findings)
+- [Recommendations](recommendations)
 
 ### Project Overview
 
