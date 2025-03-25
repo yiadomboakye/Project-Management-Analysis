@@ -68,6 +68,10 @@ on p.project_id = pa.project_id;
 ```
 
 ### Results /Findings.
+
+![Project Management Dashboard](https://github.com/user-attachments/assets/eb3d6932-67fc-4973-a7fb-93d4252657b2)
+
+
 #### Financial Risk Analysis
 - None of the departments appear to be over budget for the two-year project plan.
 - None of the projects appear to be over budget for the two-year project plan.
