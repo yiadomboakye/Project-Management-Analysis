@@ -16,6 +16,7 @@ This project focuses on organizing workforce and financial data to develop a Pow
 
 ### Data Sources
 The dataset for this project was obtained from the AbsentData website. The data consists of CSV files, which were used to create a database. Queries were written and then imported into Power BI for analysis.
+- [Download here](https://github.com/yiadomboakye/Project-Management-Analysis/tree/main/Data%20Analysis%20Project%20Files)
 
 ### Tools
 - SQL Server Management Studio (SSMS)- This tool was used to create a database, write queries, and import the data into Power BI for analysis.
