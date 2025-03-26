@@ -38,6 +38,10 @@ To effectively address the organization’s needs and challenges, I categorized 
 A relationship was established between the two tables-one imported from SQL and the other from Excel because they contained complementary data necessary for comprehensive analysis. The SQL table provided structured and relational data, while the Excel table contained additional details that were not available in the SQL database.
 A cost table was also created, but no relationship was established with the other tables. This was intentional, as managing relationships with only the two primary tables was sufficient for analysis. Additionally, avoiding unnecessary relationships helped prevent unwanted filtering in the dashboard, ensuring a clearer and more accurate representation of financial and performance insights.
 
+
+![data modelling capture](https://github.com/user-attachments/assets/068abc34-e6d9-4d7a-939c-eb7752f824da)
+
+
 ### Data Analysis
 ``` SQL
 
